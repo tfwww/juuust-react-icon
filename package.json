@@ -1,14 +1,14 @@
 {
-  "name": "juuust-react-icon",
+  "name": "winter-react-icon-demo",
   "version": "0.2.6",
-  "description": "Icon automation workflow with Figma",
+  "description": "Icon automation workflow with Figma Demo",
   "main": "dist/index.js",
   "typings": "dist/icons.d.ts",
   "files": [
     "dist"
   ],
   "repository": "https://github.com/leadream/juuust-react-icon.git",
-  "author": "leadream",
+  "author": "winter",
   "keywords": [
     "react",
     "icons",
